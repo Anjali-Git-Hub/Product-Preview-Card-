@@ -33,5 +33,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [Anjali]([https://www.frontendmentor.io/profile/yourusername](https://www.frontendmentor.io/profile/Anjali-Git-Hub))
-- Twitter - [Yashika]([https://www.twitter.com/yourusername](https://twitter.com/yashika_22_)https://twitter.com/yashika_22_)
+- Frontend Mentor - [Anjali](https://www.frontendmentor.io/profile/Anjali-Git-Hub)
+- Twitter - [Yashika](https://twitter.com/yashika_22)
